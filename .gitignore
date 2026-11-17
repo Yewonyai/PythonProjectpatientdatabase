@@ -1,0 +1,22 @@
+
+# Python virtual environments
+.venv/
+venv/
+
+# PyCharm settings
+.idea/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Mac system files
+.DS_Store
+
+# Private environment variables
+.env
+
+# Log files
+*.log
+# Dataset not yet verified for privacy and licensing
+Data/esp32_asthma_dataset_10k.csv
